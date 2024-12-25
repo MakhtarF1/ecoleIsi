@@ -1,4 +1,6 @@
 <?php
+
+// http://localhost:8060/index.php   le port du projet est la 
 require_once __DIR__ . '/../app/core/ErrorHandler.php';
 ErrorHandler::initialize();
 
